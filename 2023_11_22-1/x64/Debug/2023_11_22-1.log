@@ -1,0 +1,5 @@
+﻿  2023_11_22-1.c
+D:\github-code\C-practice\2023_11_22-1\2023_11_22-1.c(118,11): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\github-code\C-practice\2023_11_22-1\2023_11_22-1.c(116,8): warning C4305: “初始化”: 从“double”到“float”截断
+D:\github-code\C-practice\2023_11_22-1\2023_11_22-1.c(116,18): warning C4305: “初始化”: 从“double”到“float”截断
+  2023_11_22-1.vcxproj -> D:\github-code\C-practice\2023_11_22-1\x64\Debug\2023_11_22-1.exe
