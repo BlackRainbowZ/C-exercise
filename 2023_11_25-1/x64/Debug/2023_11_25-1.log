@@ -1,0 +1,4 @@
+﻿  2023_11_25-1.c
+D:\github-code\C-practice\2023_11_25-1\2023_11_25-1.c(92,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\github-code\C-practice\2023_11_25-1\2023_11_25-1.c(93,9): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  2023_11_25-1.vcxproj -> D:\github-code\C-practice\2023_11_25-1\x64\Debug\2023_11_25-1.exe
