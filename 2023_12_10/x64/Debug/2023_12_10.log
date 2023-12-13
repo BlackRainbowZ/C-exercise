@@ -1,5 +1,2 @@
 ﻿  2023_12_10.c
-D:\github-code\C-practice\2023_12_10\2023_12_10.c(174,12): warning C4013: “rand”未定义；假设外部返回 int
-D:\github-code\C-practice\2023_12_10\2023_12_10.c(198,2): warning C4013: “srand”未定义；假设外部返回 int
-D:\github-code\C-practice\2023_12_10\2023_12_10.c(198,22): warning C4013: “time”未定义；假设外部返回 int
   2023_12_10.vcxproj -> D:\github-code\C-practice\2023_12_10\x64\Debug\2023_12_10.exe

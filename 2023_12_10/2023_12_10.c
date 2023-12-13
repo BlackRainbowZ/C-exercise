@@ -159,8 +159,8 @@
 
 //猜数字游戏的实现
 #include <stdio.h>
-//#include <stdlib.h>
-//#include <time.h>
+#include <stdlib.h>
+#include <time.h>
 void menu()
 {
 	printf("***********************\n");
