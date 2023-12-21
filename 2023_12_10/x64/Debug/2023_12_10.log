@@ -1,2 +1,4 @@
 ﻿  2023_12_10.c
+D:\github-code\C-practice\2023_12_10\2023_12_10.c(121,3): warning C4013: “Sleep”未定义；假设外部返回 int
+D:\github-code\C-practice\2023_12_10\2023_12_10.c(114,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
   2023_12_10.vcxproj -> D:\github-code\C-practice\2023_12_10\x64\Debug\2023_12_10.exe
